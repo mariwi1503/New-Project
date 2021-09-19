@@ -1,3 +1,3 @@
 # Project-website
 
-This is a project in completing fondation class in Glints Academy
+This is a project in completing fondation class at Glints Academy
